@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(101, 225, 241);
+    height: 100vh;
+}
+
+img{
+    border-radius: 25px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: 5px;
+    width: 50%;
+    height: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+.container{
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    height: 60%; /*Colocar porcentagem ajuda para deixar responsivo */
+    width: auto;
+    /* height: 100vh; Altura da tela */
+}
+
+.lista{
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}

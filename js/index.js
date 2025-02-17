@@ -1,0 +1,1 @@
+alert("Bem vindo a Fatec de Cotia no meio do mato")
